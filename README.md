@@ -1,5 +1,4 @@
 # Landing_Page #
 
 Click the Link:
-https://etokruto.github.io/Landing_Page/
-
+https://etokruto.github.io/Responsive-Landing-Page/
