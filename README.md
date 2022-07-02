@@ -1,5 +1,5 @@
 # Landing_Page #
 
-Click the Link below:
+Click the Link:
 https://etokruto.github.io/Landing_Page/
 
